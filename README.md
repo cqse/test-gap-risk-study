@@ -1,7 +1,7 @@
 # Prioritizing Test Gaps by Risk in Industrial Practice: An Automated Approach and Multi-Method Study
 _Supplemental web site for a software engineering research paper_
 
-This supplementary web site enriches the paper "Prioritizing Test Gaps by Risk in Industrial Practice: An Automated Approach and Multi-Method Study". We list [research](#research-questions) and [interview questions](#interview-questions) of our semi-structured interviews that we conducted to answer RQ<sub>4</sub> (Expert Assessment) and provide access to the [plotting scripts](#plotting-scripts) used for the paper charts, for reproducibility.
+This supplementary web site enriches the paper "Prioritizing Test Gaps by Risk in Industrial Practice: An Automated Approach and Multi-Method Study". We list [research](#research-questions) and [interview questions](#interview-questions) of our semi-structured interviews that we conducted to answer RQ<sub>4</sub> (Expert Assessment) and provide access to the [plotting and sensitivity analysis scripts](#plotting-and-sensitivity-analysis-scripts) used for the paper charts, for reproducibility.
 
 # RQ<sub>4</sub>: Semi-Structured Interviews with Quality Engineers
 
