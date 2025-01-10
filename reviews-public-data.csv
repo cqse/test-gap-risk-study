@@ -1,4 +1,4 @@
-project;month;test_gap_assessment;risk_score;score_LEN;score_COM;score_CLI;score_COC;score_ANF;score_NFC;score_ACF;score_CFC;score_RCF;score_RNF;score_CHF;score_CEN
+project;month;test_gap_assessment;risk_score;score_LEN;score_COM;score_CLI;score_COC;score_ANF;score_UNF;score_ACF;score_UCF;score_RCF;score_RNF;score_CHF;score_CEN
 subject 5;2023-11;safe;5,96969616;1;1;0,984848485;0;0;0;0;0;0;0;8,1E-07;1
 subject 5;2023-11;risky;2,145795176;0,623376623;0,25;0,606060606;0;0;0;0;0;0;0;0,00104976;0,03067355
 subject 5;2023-11;risky;1,796552615;0,324675325;0,5;0,272727273;0;0;0;0;0;0;0;0,00234256;0,214382652
